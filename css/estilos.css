@@ -1,0 +1,156 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: rgb(129, 128, 128);
+}
+.rs{
+    background-color: rgb(1, 10, 27);
+    height: 30px;
+    width: 900px;
+    margin: 0 auto;
+
+}
+.banner{
+    width: 900px;
+    height: 300px;
+    background-color: rgb(218, 11, 11);
+    margin: 0 auto;
+}
+.contenido{
+    width: 900px;
+    height: 600px;
+    background-color: white;
+    margin: 0 auto;
+}
+.contador{
+    width: 900px;
+    height: 100px;
+    background-color: rgb(27, 27, 27);
+    margin: 0 auto;
+}
+.empresa{
+    width: 900px;
+    height: 110px;
+    background-color: rgb(248, 247, 247);
+    margin-bottom: 100px;
+    margin: 0 auto;
+    bottom: 50px;
+    text-align: center;
+}
+.options{
+    font-family: 'Pragati Narrow', sans-serif;
+    color: rgb(138, 134, 134);
+    padding-top: 5px;
+}
+
+h3{
+    color: rgb(178, 180, 182);
+}
+.redes1{
+    padding: 7px 0px 5px 20px;
+    color: rgb(185, 184, 184);
+    font-size: 12px;
+    float: left;
+}
+.redes2{
+    float: right;
+    padding: 7px 20px 5px 0px;
+    color: rgb(190, 190, 190);
+    font-size: 12px;
+}
+.logo_menu{
+    width: 900px;
+    height: 80px;
+    padding: 5px 20px 20px 20px;
+    box-sizing: border-box;
+    border-bottom: 1px solid rgb(49, 136, 235);
+}
+.imagen{
+    float: left;
+}
+.titulo{
+    float: left;
+    padding-left: 5px;
+    margin-top: 20px;
+    font-family: 'Dancing Script', cursive;
+}
+nav{
+    height: 100px;
+    text-align: right;
+}
+nav ul{
+    list-style: none;
+    display: inline-block;
+ }
+nav ul li{
+     float: left;
+     margin-top: 5px;
+ }
+nav a {
+     color: rgb(89, 156, 243);
+     text-decoration: none;
+     font-size: 15px;
+     padding: 10px 10px 0px 10px;
+     font-family: 'Pragati Narrow', sans-serif;
+ }
+nav li a:hover{
+   color: rgb(252, 252, 252);
+   border-bottom: 2px solid rgb(247, 243, 243);
+ }
+ .header_banner{
+    color: black;
+    text-align:center;
+    
+}
+ #t1{
+    font-size: 20px;
+    list-style: none; 
+    margin-bottom: 0;       
+ }
+
+ #t1 li{
+     display: inline;
+     font-family: 'Coda Caption', sans-serif;margin: 0;
+ }
+
+ #t3{
+     clear: both;
+ }
+ #t4{
+     font-size: 52px;
+     font-family: 'Coda Caption', sans-serif;
+     font-stretch: condensed;
+}
+ #t5{
+     font-size: 34px;
+     font-family: 'Abril Fatface', cursive;
+ }
+#conta{
+    list-style: none;
+    text-align: center;
+    padding-top: 30px;
+    
+}
+#conta li{
+    display: inline;
+    font-family: 'Coda Caption', sans-serif;
+    font-size: 25px;
+    box-sizing: border-box;
+    margin: 0px 10px 10px 20px;
+    color: rgb(121, 117, 117);
+}
+#title_footer{
+    list-style: none;
+}
+#title_footer li{
+    display: inline;
+    font-family: 'Pragati Narrow', sans-serif;
+}
+#copy{
+    color: rgb(134, 134, 134);
+    margin-top: 5px;
+    font-family: 'Pragati Narrow', sans-serif;
+    font-size: 15px;
+}
